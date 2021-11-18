@@ -1,0 +1,43 @@
+body {
+    font-family: Source Sans Pro;
+}
+
+.tomplay {
+    background:linear-gradient(225deg, #F01D8E 0%, #E30D80 100%);
+}
+
+.tomplay button {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #E30D80;
+}
+
+.score {
+    background: linear-gradient(225deg, #6492C7 0%, #345995 100%);
+}
+
+.title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.description {
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.svg {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.btn-img{
+    width: 139px;
+    height: 40px;
+    margin-right: 7px;
+    margin-top: 6px;
+}
+
